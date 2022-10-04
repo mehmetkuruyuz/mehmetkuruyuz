@@ -51,7 +51,7 @@ nav {
 
 .feature__item {
   /*max-width: calc(33% - 20px);*/
-  width: 100%;
+  width: calc(33% - 20px);
   margin: 0 20px 0 0;
 }
 
