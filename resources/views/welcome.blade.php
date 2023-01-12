@@ -24,7 +24,7 @@
       <div class="logo"></div>
       <ul class="menu">
         <div class="menu__item toggle"><span></span></div>
-        <li class="menu__item"><a href="/" class="link link--dark"><i class="fa fa-book"></i> since 2006 - v.1.0.1</a></li>
+        <li class="menu__item"><a href="/" class="link link--dark"><i class="fa fa-book"></i> since 2006 - v-1.0.1</a></li>
       </ul>
     </nav>
     <div class="hero">
