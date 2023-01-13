@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>mehmet - php developer - test jenkins</title>
+      <title>mehmet - php developer - test jenkins - auto trigger</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css">
@@ -56,7 +56,9 @@
       </div>
       <hr />
       <h3 class="section__title keybinding__detail">What i use</h3>
-
+      <div>
+        Auto Trigger from github + jetkins
+      </div>
       <div class="feature">
         <div class="feature__item">
           <h3 class="section__title">php <i class="fa fa-battery-full" aria-hidden="true"></i></h3>
