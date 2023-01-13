@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>mehmet - php developer</title>
+      <title>mehmet - php developer - test jenkins</title>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css">
@@ -24,7 +24,7 @@
       <div class="logo"></div>
       <ul class="menu">
         <div class="menu__item toggle"><span></span></div>
-        <li class="menu__item"><a href="/" class="link link--dark"><i class="fa fa-book"></i> since 2006 - v-1.0.1</a></li>
+        <li class="menu__item"><a href="/" class="link link--dark"><i class="fa fa-book"></i> since 2006 - v-1.0.2</a></li>
       </ul>
     </nav>
     <div class="hero">
