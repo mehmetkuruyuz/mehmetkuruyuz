@@ -57,7 +57,7 @@
       <hr />
       <h3 class="section__title keybinding__detail">What i use</h3>
       <div>
-        Auto Trigger from github + jetkins
+        Auto Trigger from github + jetkins + test
       </div>
       <div class="callout">
         <p></p>
