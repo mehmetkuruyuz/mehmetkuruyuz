@@ -14,15 +14,6 @@ if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `hi ,
       it's mehmet, my work flow is here.
-      all you need contact to me in footer.
-      if you needed one of them , please contact me.
-
-            - php
-            - mysql
-            - javascript
-            - css
-            - jquery
-            - bootstrap
   `;
   var speed = 60;
 
